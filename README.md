@@ -155,6 +155,6 @@ No known bugs at this time.
 
 ## Authors
 Mudau Dzilafho Pia - [Github](https://github.com/DzilafhoPia) / [Twitter](https://twitter.com/Pia_Invstr)
-Reward Mucheche - [Github](https://github.com/manhimself26)
+
 ## License
 Public Domain. No copy write protection. 
